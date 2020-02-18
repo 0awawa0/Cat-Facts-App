@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cat Facts App</string>
+
+    <string name="tvDescription">This app gets random facts about cats, dogs, horses or snails from
+        \nhttps://cat-fact.herokuapp.com
+    </string>
+    <string name="btRandomFact">Get random fact</string>
+    <string name="hint">Hit the cat to load new fact</string>
+
+    <string name="shareTitle">Send fact</string>
+
+    <string name="error_message">Ooops, can\'t load fact.
+        Check your internet connection or try later</string>
+
+    <string name="shareMessage" formatted="true">\'%s\' \n\nSent via "Cat Facts App".\nVisit https://cat-fact.herokuapp.com for more facts
+    </string>
+</resources>
